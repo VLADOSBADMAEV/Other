@@ -1,5 +1,6 @@
 import java.util.Scanner;
 32234
+    dfdfdf
 public class Main {
 
     public static String[] products = { "Хлеб", "Пачка гречки", "Упаковка яиц", "Мороженка" };
